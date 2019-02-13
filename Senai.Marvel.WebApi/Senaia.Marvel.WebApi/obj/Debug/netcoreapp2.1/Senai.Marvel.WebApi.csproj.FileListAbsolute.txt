@@ -1,0 +1,14 @@
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\bin\Debug\netcoreapp2.1\Senai.Marvel.WebApi.deps.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\bin\Debug\netcoreapp2.1\Senai.Marvel.WebApi.runtimeconfig.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\bin\Debug\netcoreapp2.1\Senai.Marvel.WebApi.runtimeconfig.dev.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\bin\Debug\netcoreapp2.1\Senai.Marvel.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.csprojAssemblyReference.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.RazorAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.RazorAssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.AssemblyInfoInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.AssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\bin\Debug\netcoreapp2.1\Senai.Marvel.WebApi.pdb
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Svigufo.WebApi\Senaia.Marvel.WebApi\Senaia.Marvel.WebApi\obj\Debug\netcoreapp2.1\Senai.Marvel.WebApi.pdb
