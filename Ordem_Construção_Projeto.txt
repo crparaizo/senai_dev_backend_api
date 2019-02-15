@@ -1,0 +1,4 @@
+1 - Domain/Entity/Model
+2 - Controller
+3 - Interface
+4 - Repositório (acessar BD)
