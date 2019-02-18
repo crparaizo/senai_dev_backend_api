@@ -23,33 +23,35 @@ namespace Senai.Svigufo.WebApi.Repositories
               
                     SqlDataReader rdr = cmd.ExecuteReader();
 
-                    while (rdr.Read())
+                    if (rdr.HasRows)
                     {
-                        InstituicaoDomain instituicao = new InstituicaoDomain
+                        while (rdr.Read())
                         {
-                            Id = Convert.ToInt32(rdr["ID"]),
-                            NomeFantasia = rdr["NOME_FANTASIA"].ToString(),
-                            RazaoSocial = rdr["RAZAO_SOCIAL"].ToString(),
-                            CNPJ = rdr["CNPJ"].ToString(),
-                            Logradouro = rdr["LOGRADOURO"].ToString(),
-                            CEP = rdr["CEP"].ToString(),
-                            UF = rdr["UF"].ToString(),
-                            Cidade = rdr["CIDADE"].ToString()
-                        };
+                            InstituicaoDomain instituicao = new InstituicaoDomain
+                            {
+                                Id = Convert.ToInt32(rdr["ID"]),
+                                NomeFantasia = rdr["NOME_FANTASIA"].ToString(),
+                                RazaoSocial = rdr["RAZAO_SOCIAL"].ToString(),
+                                CNPJ = rdr["CNPJ"].ToString(),
+                                Logradouro = rdr["LOGRADOURO"].ToString(),
+                                CEP = rdr["CEP"].ToString(),
+                                UF = rdr["UF"].ToString(),
+                                Cidade = rdr["CIDADE"].ToString()
+                            };
 
-                        return instituicao;
+                            return instituicao;
+                        }
                     }
                 }
                 return null;
-            }
-
-            
+            }            
         }
 
-        public void Editar(InstituicaoDomain instituicao)
+        public void Editar(int id, InstituicaoDomain instituicao)
         {
             using (SqlConnection con = new SqlConnection(StringConexao))
             {
+                /*
                 string QueryAlteracao = "UPDATE INSTITUICOES SET NOME_FANTASIA = @NOME_FANTASIA WHERE ID=@ID";
 
                 SqlCommand cmd = new SqlCommand(QueryAlteracao, con);
@@ -57,6 +59,23 @@ namespace Senai.Svigufo.WebApi.Repositories
                 cmd.Parameters.AddWithValue("@ID", instituicao.Id);
                 con.Open();
                 cmd.ExecuteNonQuery();
+                */
+
+                //Atribui os valores aos parametro das querys
+                string queryUpdate = "UPDATE INSTITUICOES(NOME_FANTASIA, RAZAO_SOCIAL, CNPJ, LOGRADOURO, CEP, UF, CIDADE) VALUES(@NOME_FANTASIA, @RAZAO_SOCIAL, @CNPJ, @LOGRADOURO, @CEP, @UF, @CIDADE ) WHERE ID = @ID";
+                SqlCommand cmd = new SqlCommand(queryUpdate, con); //using
+                cmd.Parameters.AddWithValue("@NOME_FANTASIA", instituicao.NomeFantasia);
+                cmd.Parameters.AddWithValue("@RAZAO_SOCIAL", instituicao.RazaoSocial);
+                cmd.Parameters.AddWithValue("@CNPJ", instituicao.CNPJ);
+                cmd.Parameters.AddWithValue("@LOGRADOURO", instituicao.Logradouro);
+                cmd.Parameters.AddWithValue("@CEP", instituicao.CEP);
+                cmd.Parameters.AddWithValue("@UF", instituicao.UF);
+                cmd.Parameters.AddWithValue("@CIDADE", instituicao.Cidade);
+                cmd.Parameters.AddWithValue("@ID", id);
+
+                con.Open();
+                cmd.ExecuteNonQuery(); //Exercutar um ñ select (updated, delete,...)
+
             }
         }
 
@@ -77,7 +96,7 @@ namespace Senai.Svigufo.WebApi.Repositories
             using (SqlConnection con = new SqlConnection(StringConexao))
             {
                 string queryInsert = "INSERT INTO INSTITUICOES(NOME_FANTASIA, RAZAO_SOCIAL, CNPJ, LOGRADOURO, CEP, UF, CIDADE) VALUES(@NOME_FANTASIA, @RAZAO_SOCIAL, @CNPJ, @LOGRADOURO, @CEP, @UF, @CIDADE )";
-                SqlCommand cmd = new SqlCommand(queryInsert, con);
+                SqlCommand cmd = new SqlCommand(queryInsert, con); //using
                 cmd.Parameters.AddWithValue("@NOME_FANTASIA", instituicao.NomeFantasia);
                 cmd.Parameters.AddWithValue("@RAZAO_SOCIAL", instituicao.RazaoSocial);
                 cmd.Parameters.AddWithValue("@CNPJ", instituicao.CNPJ);
@@ -85,20 +104,19 @@ namespace Senai.Svigufo.WebApi.Repositories
                 cmd.Parameters.AddWithValue("@CEP", instituicao.CEP);
                 cmd.Parameters.AddWithValue("@UF", instituicao.UF);
                 cmd.Parameters.AddWithValue("@CIDADE", instituicao.Cidade);
+
                 con.Open();
-                cmd.ExecuteNonQuery();
+                cmd.ExecuteNonQuery(); //Exercutar um ñ select (updated, delete,...)
             }
         }
 
         public List<InstituicaoDomain> Listar ()
         {
             List<InstituicaoDomain> instituicoes = new List<InstituicaoDomain>();
-
-
+            
             using (SqlConnection con = new SqlConnection(StringConexao))
             {
                 string QuerySelect = "SELECT ID, NOME_FANTASIA, RAZAO_SOCIAL, CNPJ, LOGRADOURO, CEP, UF, CIDADE FROM INSTITUICOES";
-
 
                 using (SqlCommand cmd = new SqlCommand(QuerySelect, con))
                 {

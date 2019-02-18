@@ -1,0 +1,14 @@
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\bin\Debug\netcoreapp2.1\Senai.Produtos.WebApi.deps.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\bin\Debug\netcoreapp2.1\Senai.Produtos.WebApi.runtimeconfig.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\bin\Debug\netcoreapp2.1\Senai.Produtos.WebApi.runtimeconfig.dev.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\bin\Debug\netcoreapp2.1\Senai.Produtos.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\bin\Debug\netcoreapp2.1\Senai.Produtos.WebApi.pdb
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.RazorAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.RazorAssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.AssemblyInfoInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.AssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.pdb
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Senai.Produtos.WebApi\Senai.Produtos.WebApi\Senai.Produtos.WebApi\obj\Debug\netcoreapp2.1\Senai.Produtos.WebApi.csprojAssemblyReference.cache
