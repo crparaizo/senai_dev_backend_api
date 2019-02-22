@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Senai.Svigufo.WebApi.Domains;
 using Senai.Svigufo.WebApi.Interfaces;
@@ -32,6 +33,7 @@ namespace Senai.Svigufo.WebApi.Controllers
         */
 
         [HttpGet]
+        [Authorize]
         public IActionResult Get()
         {
             return Ok (InstituicaoRepository.Listar());
