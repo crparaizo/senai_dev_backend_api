@@ -74,7 +74,6 @@ namespace Senai.Svigufo.WebApi
             });
 
             app.UseMvc();
-
         }
     }
 }

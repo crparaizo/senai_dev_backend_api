@@ -1,0 +1,16 @@
+Jogos
+	Listar
+	Adicionar
+	
+Controller
+Interface
+Repository
+
+Desafio
+Jogos
+	Atualizar
+	Deletar
+
+Usuários
+	Cadastrar
+	BuscarPorEmailSenha

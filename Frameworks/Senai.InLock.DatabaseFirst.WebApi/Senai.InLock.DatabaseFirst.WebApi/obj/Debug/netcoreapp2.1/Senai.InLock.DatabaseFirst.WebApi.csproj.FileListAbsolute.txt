@@ -1,0 +1,14 @@
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.deps.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.runtimeconfig.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.runtimeconfig.dev.json
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.pdb
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.csprojAssemblyReference.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.RazorAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.RazorAssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.AssemblyInfoInputs.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.AssemblyInfo.cs
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.dll
+C:\Users\43765601896\Downloads\Senai_Sprint_2_BackEnd\Frameworks\Senai.InLock.DatabaseFirst.WebApi\Senai.InLock.DatabaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.WebApi.pdb
