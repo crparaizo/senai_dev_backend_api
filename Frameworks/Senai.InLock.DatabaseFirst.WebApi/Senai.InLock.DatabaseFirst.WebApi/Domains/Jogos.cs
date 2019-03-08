@@ -14,6 +14,6 @@ namespace Senai.InLock.DatabaseFirst.WebApi.Domains
 
         public Estudios Estudio { get; set; }
 
-        // ? - para que uma entidade aceite uma vaor nulo
+        // ? - para que uma entidade aceite uma valor nulo
     }
 }
